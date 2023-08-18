@@ -1,0 +1,1 @@
+let animation = gsap.to('.faces', {rotationY:180, duration:2})
